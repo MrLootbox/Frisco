@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agent-name-wcqsqd",
+  "private_key_id": "53b3eb111c67b4010375e53e188b44faea651713",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPMszM0KJdb22N\nOPjQaBl6ijGJ0l6AtpvFBcMzp4uFhfKnphz4IvPBrvSDzWojKMoSixqiQsnvKiEh\n5OXJtzk8d0fXCj3X0q5kaGSdJnM/KKt6bFrLxdJFQv88PHZsoD5Xo2eC5Moh8zAl\nt1eGYchs65brM237U/h1O8sT3xDMAW0Vvsgy5+WYIgzMZbk55borq7p90Y3XHrVu\nEfxzyG+vgBKcWFoiPh2+IuC11sBT9Hn6rhdwqSJJlREmVJPImruumqtQMgIkgflH\nUD9F8eAePTu3t/+3cAqFLUucN/VeHOmefoWyRzL2l4FVI2/eRDVPauAE2GYyWPQE\nRCiMVxnhAgMBAAECggEADfmO6ySKQvOMR8lnLMVMrKFsAG/2LEfEv1fpZ88935Je\ngLS5QPo4hyB6APbGmRr78B6+O+H11UH57JuP7RhEzcF80LHx5F/jH8YTvS61+LVR\nRYdP420TBtVjOiiY0zBGrCoLBf7Q7FPG9FBGoLtxJXmJWxFDsn8iI6QWCR/TNfMm\nkQrExBVSio9Gdvgc9YcvmJnWB9OmmlWyxHNooF+pcRQS1z0X4Bj4EiF6IjrI9J/l\n6fWo5JK0SLLBl+vfLj9C0aH3x2RMnYeb+d4ib0jDq1PdWLXgt4SfhtwxXe/Eu7OP\nUP1kxLy/DgJEZxHtIU/C1inOlFroPDbUhT6Vp9kXsQKBgQDySzLuwpZY2IfobwSB\nisz37tSLxpd8QHxGlQ5fSjGWfGD159ZZYX0XEjAFwx0O8m/EjcXhlWR1XulRs/Jf\nIXy+dK22v0YX6bp9zFoNe3hMI82k7mgrrkA+OJoy4wjpgVWWoNapuUgR5vVylojr\nJMjgl1z1fydyZyYQKKgJ0lnp6QKBgQDa611l4Jx0vCNItPjbvDwuZG34xc+cKoDz\nucXqSgxtWPfhE+XqJ6n7AqyLl51nsGDmfObjCeYfYJzu/9uxCJAfMyIGfAnfCGxh\nm6YB/I9ixh84sttOk39mZe3Dpx7voWYC0ZlWJt1Y/hDpnaUtgTzjwnTRRrk+UtyN\nwzFFqfm9OQKBgEX/DX7GflK6c0Dl2aJm6+HwgDzFKXw+0Og/JYDH2V2FHynLSTRX\nIqEoovD3NgzcYweggXszAmuZ+MOevbVX4kbPRGQYC/LalgLDp3xfoBg2+7DbIwMD\nexG+nmV3C1sR/xzd6EXt/fEWDPCGppVv8gxYDgXqLwYw4GEorarwtwMJAoGAC8Lz\nbKLJpRfqiWB3sk6FqTRqGCCAi/JYpT+I25KI4mMSRjxscM0au8qj/Ifzw/tc6WUy\nfmYsv+jP5aNHaVZ9b7+uh0yotxvbvs6+94JbLcJZMRGi6LDR+m1lfcp/xf4U3ffm\n1hMWd06HGBYJJs23uMDcx9WV5DxNbyxafFSqfzkCgYBSrpxC4Db5OZ65/TbdF0AZ\nH+h9LpvhgfSwtLG7xNSbWISQ70Yz4tlJi5kgfAEq9gEOO1rhfJormRJjcyX/MVV/\nAZTFKeuHkhGNHN2qze+1AaSGCs/ihAFx8Lk8HwBklJ/YNf8sV3BfGRW0ZpuAIGLJ\nxzAyPTEpNu1E2DmJi+xi5w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "frisco@agent-name-wcqsqd.iam.gserviceaccount.com",
+  "client_id": "106461601421603749942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/frisco%40agent-name-wcqsqd.iam.gserviceaccount.com"
+}
